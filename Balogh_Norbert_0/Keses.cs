@@ -14,7 +14,7 @@ namespace Balogh_Norbert_0
     public partial class Keses : Form
     {
         static List<Kolcsonzott_konyvek> kolcsonzott_konyvek = new List<Kolcsonzott_konyvek>();
-
+         
         public Keses()
         {
             InitializeComponent();
